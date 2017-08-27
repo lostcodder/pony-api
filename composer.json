@@ -2,6 +2,7 @@
     "name": "lostcodder/pony-api",
     "description": "PHP realization API vk.com",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Vitaly Yakubenko",
