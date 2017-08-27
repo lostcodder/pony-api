@@ -1,0 +1,12 @@
+{
+    "name": "vetal/pony-api",
+    "description": "PHP realization API vk.com",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vitaly Yakubenko",
+            "email": "lostcodder@gmail.com"
+        }
+    ],
+    "require": {}
+}
