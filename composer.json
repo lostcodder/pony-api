@@ -8,5 +8,6 @@
             "email": "lostcodder@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
